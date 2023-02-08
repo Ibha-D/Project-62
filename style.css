@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.menu{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+   margin: top 0px;
+   background:aliceblue;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#name{
+    font-size: 50px;
+    font-family: 'Cinzel Decorative' , cursive;
+}
+
+#bio{
+    font-family:'Cinzel Decorative' , cursive ;
+    padding: 50px;
+}
+
+#contact{
+    background: lightslategray;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 h3
+
+{
+    display:inline;
+}
